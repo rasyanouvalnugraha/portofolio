@@ -150,7 +150,7 @@ export const listProyek = [
     gambar: Portofolio,
     nama: "Portofolio",
     desk: "My personal portfolio website to showcase my projects and skills",
-    tools: ["React JS", "Tailwind CSS", "Vite", "Vite Js", "Remix Icons"],
+    tools: ["React JS", "Tailwind CSS", "Vite Js", "Remix Icons", "Flowbite"],
     dad: "500",
     demo: "",
   }
